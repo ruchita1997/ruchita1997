@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning **PG-DAC**
 - 💬 Ask me about ** Java , MySql,reactJS **
 - 📫 Reach me at **ruchitajpatil1997@gmail.com**
-<!--- 🎉 Let's connect [here](https://www.linkedin.com/in/tejas-jawale-05615b160/).-->
+ 
 
-<!-- - 📫 How to reach me **jawaletejas1299@gmail.com** -->
+ 
 
 <hr>
 <h2 align="center"> ⚡️ Technology Stacks </h2>
@@ -32,8 +32,8 @@
 <!-- GitHub Readme Streak Stats & Most used languages - https://github.com/coding-geek21/github-readme-streak-stats -->
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TEJAS12Oct&show_icons=true&theme=jolly" alt="GitHub Stats" align="center" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEJAS12Oct&layout=compact&theme=jolly&langs_count=10" alt="GitHub Top-Langs" align="center" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ruchita1997&show_icons=true&theme=jolly" alt="GitHub Stats" align="center" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruchita1997&layout=compact&theme=jolly&langs_count=10" alt="GitHub Top-Langs" align="center" width="40%" />
  </p>
 
 <hr>
@@ -43,7 +43,7 @@
 <details>
   <summary>🔥 GitHub Streak</summary>
   <br/>
-   <a href="https://github.com/TEJAS12Oct/github-readme-streak-stats">
+   <a href="https://github.com/Ruchita1997/github-readme-streak-stats">
    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ruchita's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruchita1997&theme=jolly&hide_border=true"/>
   </a>
   <br/>
