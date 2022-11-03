@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Ruchita Patil</h1>
 
-- 🌱 I’m currently learning **PG-DAC**
+- 🌱 I’ve completed my **PG-DAC**
 - 💬 Ask me about **Java,DataStructure,MySql,OS-Linux,SpringBoot,ReactJS**
 - 📫 Reach me at **ruchitajpatil1997@gmail.com**
  
